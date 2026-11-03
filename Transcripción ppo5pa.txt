@@ -1,0 +1,498 @@
+﻿[00:20] >> Ana Laura?: Bienvenidos a esta transmisión en vivo de esta mesa de conversación Repensar el mundo ante Covid-19. Como ustedes saben, hace unos meses que estalló la pandemia.
+
+
+[00:32] El filósofo y antropólogo francés Bruno Latour lanzó un documento que, siguiendo la metáfora, se volvió viral. Un documento en el que nos invitaba a pensar cómo podríamos regresar al mundo una vez pasada la pandemia, después de esta experiencia de haber detenido prácticamente las actividades más importantes de la economía a nivel global en una situación inédita.
+
+
+[01:00] Y en este documento nos comentaba qué sectores quisiéramos ver volver y qué sectores no quisiéramos ver volver, y de qué manera estos sectores se podrían reconvertir. En una palabra, nos estaba invitando a reimaginar el mundo después de él.
+
+
+[01:21] Por este motivo lo invitamos a la Cátedra con sobre ellas . Tuvimos una conversación con él, conversación que se encuentra grabada en nuestro canal de YouTube y a la que les recomendamos muchísimo que puedan visitar para pensar con él.
+
+
+[01:36] Y hemos decidido, en la Escuela de Humanidades y Educación del Tecnológico de Monterrey, tomar la estafeta y, efectivamente, repensar el mundo desde tres aspectos fundamentales: desde la relación sociedad-tecnología, desde la relación entre educación y brecha digital y entre las nuevas formas de ser ciudadanas y ciudadanos en este mundo.
+
+
+[02:01] El día de hoy vamos a iniciar con la mesa Sociedad y Tecnología, y para ello hemos convocado a tres de nuestros profesores investigadores de la Escuela de Humanidades y Educación.
+
+
+[02:12] Ellos son Paula Ricaurte, Salvador Ratón y Luis Fernández, y para conducir esta mesa tenemos al decano regional Ciudad de México de la Escuela de Humanidades y Educación, el doctor Julio Rubio.
+
+
+[02:26] Así es que, Julio, con mucho gusto te cedo la palabra para repensar el mundo.
+
+
+[02:31] >> Julio Rubio: Muchas gracias, Ana Laura. Bueno, pues estamos muy contentos de estar aquí y poder reflexionar desde este punto de vista de la ciencia y la tecnología, y retomando algunas ideas de Bruno Latour, para ver el papel fundamental que la ciencia y la tecnología están jugando en esta pandemia y, en general, están jugando en nuestra civilización.
+
+
+[03:05] Como saben, durante décadas ha habido cuestionamientos a la dinámica de la ciencia y de la tecnociencia, y el propio Bruno Latour, desde el constructivismo social, ha contribuido al debate, a la controversia sobre el papel de la ciencia.
+
+
+[03:25] Y ahora, en esta crisis, nos enfrentamos, como nos dice el propio Latour en una entrevista con The Guardian ahora en junio, a que el público, todos, nos tenemos que enfrentar cada día a un lenguaje estadístico, a un lenguaje científico.
+
+
+[03:49] Y eso nos conduce a la pregunta sobre qué papel está jugando la ciencia, la tecnología, en la pandemia, que se está afectando nuestras creencias en la ciencia, nuestra confianza en la ciencia, o al revés, se está fortaleciendo.
+
+
+[04:09] Y vamos a hacer una primera ronda de participaciones alrededor de esta pregunta muy general, iniciando con el doctor Luis Fernández. Adelante, por favor.
+
+
+[04:21] >> Luis Fernández: Hola, Julio. Bueno, gracias por esta invitación, gracias a la Cátedra Alfonso Reyes.
+
+
+[04:27] Pues bueno, creo que para empezar hay que situar, para responder esta pregunta, el contexto en el que se está dando esta pandemia y, particularmente, hablar de este término que en filosofía se utiliza: la era de la posverdad.
+
+
+[04:43] La era de la posverdad, que fue palabra de los diccionarios Oxford 2016, que quiere decir que es la palabra que con sean más importante, más relevante . En este sentido, quiere decir una era donde la verdad, en un sitio como este modo lógico , donde la verdad que dicta la ciencia, pues, es equiparada a las opiniones.
+
+
+[05:04] Eso es igual de relevante que una opinión, que una ideología, y uno puede decidir creer o no creer. Y sobre todo, aquí el énfasis es una creencia opcional en la ciencia.
+
+
+[05:15] Entonces esta pandemia llega en uno de los peores momentos, donde vemos en el mundo una desconfianza: uno, en el proyecto de la modernidad; dos, en la ciencia. Vemos estos grupos, como los antivacunas, los que deciden no vacunar a sus hijos por una conspiración mundial, la gente que cree que la Tierra es plana, la gente que descarta la ciencia del cambio climático.
+
+
+[05:45] Y en eso nos llega hasta esta pandemia, en un momento donde la gente cree que la ciencia es opcional, que podemos creer o podemos no creer en ella. Entonces es un momento sumamente fuerte donde se requiere de la ciencia para que guíe.
+
+
+[06:03] Y por el otro lado, la ciencia ha sido cooptada, no, particularmente por las ideologías, la otra derecha , que ha explotado los presupuestos epistemológicos de la posmodernidad, en el sentido de que la ciencia, de corrientes de la posmodernidad, es considerada como una narrativa. Entonces ha sido explotada, particularmente por la otra derecha , este presupuesto epistemológico.
+
+
+[06:29] Nosotros vemos en EE. UU. con toda claridad gente que dice que no existe la pandemia. Vemos, pero no solo en EE. UU., en todos lados, en México, que dice que esto no está realmente pasando, que esto es una especie de cosa , etcétera.
+
+
+[06:46] Y entonces vemos que hay una gran desconfianza, incluso desde antes, no, desde antes de la pandemia, no solo en EE. UU., por las cuestiones ideológicas, jones .
+
+
+[06:58] En México, hace apenas un año, salió el reporte Estado de la Ciencia en México, donde el 83 % de los mexicanos, aunque siente curiosidad por la ciencia, el 85 por ciento no saben nada de ella.
+
+
+[07:11] 61 por ciento de los encuestados siente que la ciencia causa igual de problemas que de solución, 61 . Y peor aún, el 35 % de la gente dice no creer en la ciencia, no, que es mejor recurrir a remedios caseros, a velas, a brujería, a cualquier otra cosa.
+
+
+[07:35] Y esto lo podemos poner al lado de otras cuestiones, aún en una encuesta del INEGI 2016: una tercera parte de los mexicanos no cree en la teoría de la evolución. Entonces esto lo vamos juntando y lo ponemos en el sentido de la pandemia, donde hasta abril apenas 35 por ciento de la gente respetaba el quedarse en casa.
+
+
+[07:57] Entonces, en ese sentido, vemos una necesidad de confiar en la ciencia y, por el otro lado, una brecha enorme, enorme, en el mundo, en muchos sentidos, donde la ideología ha cooptado los presupuestos de la ciencia, donde las personas creen que están en posibilidades simplemente de creer o de no creer en lo que la ciencia dice.
+
+
+[08:21] Un poco en el centro, como Alan Sokal alguna vez lo mencionaba: no desea . Bueno, no creen, creen que la ciencia es una construcción, bueno, pues los invito a lanzarse por la ventana. No, incluso se lo digo abro un orador el gesto mismo .
+
+
+[08:35] Entonces, en la era donde más requerimos que la ciencia esté, guíe, dicte, es cuando más descompensado . Sí, esa es la receta para un problema realmente serio.
+
+
+[08:47] >> Julio Rubio: Muchas gracias, Luis. Doctora Ricaurte, ¿está de acuerdo? ¿Deberíamos recuperar la confianza en la ciencia?
+
+
+[08:53] >> Paula Ricaurte: Bueno, antes de empezar quiero agradecer este encuentro, esta charla.
+
+
+[09:01] Y creo que justamente la pandemia nos ha puesto en un momento coyuntural histórico en el que tenemos que dar respuesta a esta pregunta y decir: es una oportunidad para hacer ese giro de tuerca, ese giro radical acerca de cómo estamos viendo la ciencia y la tecnología.
+[09:19] Antes de responder, diría que, para mí, pensando en la primera pregunta que nos han planteado, creo que la esencia de la tecnología en esta pandemia ha jugado un papel crucial en al menos tres aspectos.
+[09:19] Antes de responder, diría que, para mí, pensando en la primera pregunta que nos han planteado, creo que la esencia [?] de la tecnología en esta pandemia ha jugado un papel crucial en al menos tres aspectos.
+[09:30] Uno, la capacidad de la comunidad científica para articularse y tratar de generar una facción en tiempo récord. Dos, la capacidad de predicción del curso de la enfermedad a través de los instrumentos, digamos, que estamos viendo cotidianamente, lo que te refería en su momento: la generación de modelos estadísticos, la generación de datos en tiempo real y la generación de tecnologías que permitan recuperar sus datos . Y tres, la capacidad de proveer infraestructura tecnológica que permita la continuidad de la vida en todos .
+[09:30] Uno, la capacidad de la comunidad científica para articularse y tratar de generar una facción [?] en tiempo récord. Dos, la capacidad de predicción del curso de la enfermedad a través de los instrumentos, digamos, que estamos viendo cotidianamente, lo que te refería en su momento: la generación de modelos estadísticos, la generación de datos en tiempo real y la generación de tecnologías que permitan recuperar sus datos [?]. Y tres, la capacidad de proveer infraestructura tecnológica que permita la continuidad de la vida en todos [?].
+[09:58] Bueno, entonces tenemos este escenario donde, digamos, hay una respuesta, una reacción del inter y el campo científico-tecnológico, pero a la vez estamos viendo esta duda, esta pregunta acerca de si tenemos que recuperar o no la confianza en la ciencia, si es posible tener confianza en la ciencia.
+[09:58] Bueno, entonces tenemos este escenario donde, digamos, hay una respuesta, una reacción del inter [?] y el campo científico-tecnológico, pero a la vez estamos viendo esta duda, esta pregunta acerca de si tenemos que recuperar o no la confianza en la ciencia, si es posible tener confianza en la ciencia.
+
+
+[10:19] Y creo que esta respuesta es mucho más compleja, porque depende de dónde estemos situados en nuestra crítica a la ciencia y la tecnología. La producción de conocimiento y la producción científica, sabemos que no son neutrales, y, digamos, el actual curso del desarrollo tecnológico-científico responde a un modelo epistemológico, económico, cultural que favorece los intereses de cierto [?].
+[10:45] Entonces creo yo que, más que, digamos, emitir juicios acerca de por qué la sociedad no cree en la ciencia, debemos entender qué está viendo la sociedad en la ciencia y la tecnología, que no está respondiendo a sus intereses.
+[10:45] Entonces creo yo que, más que, digamos, emitir juicios acerca de por qué la sociedad no cree en la ciencia, debemos entender qué está viendo la sociedad en la ciencia y la tecnología, que no está respondiendo a sus intereses.
+[11:03] Y en este sentido no existe este gran debate entre aquellos que promueven el modelo de producción científica tecnológica actual dominante, este modelo occidental racional, que de alguna manera está impulsado por intereses privados y por ciertos países, y existen las personas que cuestionan.
+[11:03] Y en este sentido no existe [?] este gran debate entre aquellos que promueven el modelo de producción científica tecnológica actual dominante, este modelo occidental racional, que de alguna manera está impulsado por intereses privados y por ciertos países, y existen las personas que cuestionan.
+
+
+[11:25] Entonces, frente a estas dos tensiones, creo que es justamente tenemos que entender esa multiplicidad de factores que han conducido a la población a generar esta gran desconfianza a la ciencia. Entonces, por ejemplo, ¿a quiénes sirven los productos de la ciencia? ¿Cuál es la función social de la ciencia?
+
+
+[11:44] Cada vez más, y vemos cotidianamente, la crítica de las personas a los académicos que están desconectados de sus realidades sociales. Por otra parte, cómo se comunican sus beneficios a la sociedad, cómo la sociedad puede notar en su vida cotidiana que realmente sus productos de la ciencia les están sirviendo para mejorar.
+
+
+[12:06] Después, otras críticas, como por ejemplo la falta de aplicabilidad de los resultados científicos, que justamente en las épocas recientes es lo que ha detonado, como en el caso mencionado por Luis, el caso de los antivacunas, que se detona a partir de un artículo científico publicado por una revista respetable, no, hay que genera toda una cadena de cuestionamientos, y que después se comprueba que los resultados estaban falseados, pero que este autor, aunque el artículo se haya retirado de la revista, fue invitado a la toma de posición de trabajo .
+[12:47] Entonces también creo que es importante entender esta colección que la gente se da cuenta.
+[12:47] Entonces también creo que es importante entender esta colección [?] que la gente se da cuenta.
+
+
+[12:54] Y después creo que está esta cuestión de la tendencia a la privatización del conocimiento. Si nosotros no tenemos acceso al conocimiento como personas normales, entonces cómo pretendemos que la sociedad entienda cuál es el valor de la producción científica. Entonces yo creo que no.
+
+
+[13:14] Como sociedad, y para las personas que estamos de alguna manera involucradas con la producción de conocimiento, es importante que entendamos, digamos, desde dónde nos estamos situando dentro de este sistema de producción de conocimiento, y también estar muy atentos a las críticas sociales y ser autocríticos también con nuestra propia producción.
+
+
+[13:34] En el sentido de que si estamos haciendo una producción que sea significativa y que realmente sea una producción de conocimiento en la que la gente encuentre un palo , digamos, que no sea una producción de conocimiento que responda a estos patrones o a estos modelos de producción científica dominante, que están regidos bajo métricas, pues, básicamente, pues, de productividad en términos, no, porque esto se traduce en capital.
+
+
+[14:05] Y bueno, creo que eso sería mi visión sobre la cuestión de la confianza en la ciencia y también en la tecnología.
+[14:19] >> Julio Rubio: Perdón. Gracias, doctora del cartel . Doctor y estoy .
+[14:19] >> Julio Rubio: Perdón. Gracias, doctora del cartel [?]. Doctor y estoy [?].
+
+
+[14:24] >> Salvador: Muchas gracias por la invitación. Antes que nada, antes de contestar, también agradecer a la Cátedra Alfonso Reyes por su gentil y amable invitación a dialogar con muy queridos amigos y colegas aquí del Tec, sobre una temática que es por demás importante, que es urgente revisar, sobre todo en términos también de la implicación de las humanidades y las sociales de estos temas.
+
+
+[14:49] Es decir, no solamente observándolo desde una perspectiva técnica, no desde una perspectiva meramente cientifista, por así decirlo, sino también reflexionar sobre los impactos que esto tiene en la vida cotidiana de las personas.
+
+
+[15:04] Y en ese sentido y en esa lógica, y retomando un poco de lo que ya tanto Luis como Paula han estado mencionando, ante estas circunstancias pues hay una gran cantidad de información por todos lados y no necesariamente buena.
+
+
+[15:27] Información que, lamentablemente, en muchos de los casos tiene muy muy poco rigor o ninguno, en donde mucha gente empieza a compartir esta información y se crean estos imaginarios muy peligrosos de lo que está sucediendo con la enfermedad.
+
+
+[15:44] Es decir, hay un tipo de cacofonía, muchas veces, en las redes sociales, en el internet, con tanta información. Y también, como ya se ha estudiado tanto en los estudios de comunicación, se crean estas cámaras de eco en nuestras propias redes sociales, y escuchamos solamente lo que este grupito en el que nosotros, nuestra tribu digital, está diciendo, y no salimos de esta burbuja.
+
+
+[16:13] Y eso también provoca que tengamos una perspectiva muy particular sobre una circunstancia como lo que estamos viviendo.
+
+
+[16:20] En ese sentido hay que tomar en cuenta, para no volver sobre los temas que ahorita mis colegas compartieron, hay que decir algo también muy importante: cuando se presentan ese tipo de informaciones científicas, en la ciencia no hay certezas absolutas, sino que esto de alguna manera se desarrolla conforme van evolucionando las problemáticas que estamos investigando.
+
+
+[16:52] No hay certezas, o sea, esto no es un dogma, sólo son doctrinas . Esto es teoría, esto es ciencia, y se tiene que estar a prueba y error.
+
+
+[17:00] Por eso muchas veces las incomodidades de las audiencias al no tener una certeza absoluta de lo que está pasando, sino que todo esto puede cambiar conforme a condiciones.
+
+
+[17:13] Esto es, por ejemplo, el Covid-19, pues es un organismo que también depende de su expansión, del comportamiento social, del comportamiento humano, y los humanos somos inestables en términos de cómo participamos en sociedad: si salimos o no salimos, si nos confinamos o no nos confinamos, si viajamos o no, si creemos que hay una enfermedad o no.
+
+
+[17:38] Todos estos elementos que son totalmente, aunque caben , que están fuera de una posibilidad de interpretación maniquea de estar pasando esto, todo esto, bueno, pues hace que también las propias audiencias, o los propios públicos, se vean ante tanta información y no se sepa cómo reaccionar.
+
+
+[18:03] Y como también ya lo mencionaba hace un momento Paula, pues también las ideologías juegan su parte, no. La manera en que nosotros interpretamos las circunstancias del mundo social también depende de estos determinismos a los que estamos sometidos desde nuestros grupos sociales, nuestra religión, nuestro grupo económico, etcétera, etcétera.
+[18:25] Entonces, ante este sentido, y quisiera, para ir cerrando con esta primera participación, yo creo que es muy importante tomar en cuenta que este discurso de la ciencia por tener es un discurso que hay que desmantelar , quiere reconstruir. De alguna manera está también sometido a intereses privados, a relaciones de poder, y que no es objetivo en el sentido estricto.
+[18:25] Entonces, ante este sentido, y quisiera, para ir cerrando con esta primera participación, yo creo que es muy importante tomar en cuenta que este discurso de la ciencia por tener [?] es un discurso que hay que desmantelar [?], quiere [?] reconstruir. De alguna manera está también sometido a intereses privados, a relaciones de poder, y que no es objetivo en el sentido estricto.
+
+
+[18:54] No hay objetividad como tal, porque tu vida no existe ; si alguien dice que es objetivo es porque el conservador generalmente, este, porque siempre hay todos estos elementos de interpretación que afectan a la manera en que percibimos y revisamos el mundo.
+[19:06] Pero, y por eso es tan importante ahora, y para cerrar, también bajar este gran conocimiento de la ciencia a nivel de divulgación, para que la gente también lo comprenda y no nos quedemos en nuestra torre de marfil discutiendo sobre este tipo de problemáticas, y que la gente entienda y que lo peor puede malinterpretar los resultados que existen esté determinado , pero.
+[19:06] Pero, y por eso es tan importante ahora, y para cerrar, también bajar este gran conocimiento de la ciencia a nivel de divulgación, para que la gente también lo comprenda y no nos quedemos en nuestra torre de marfil discutiendo sobre este tipo de problemáticas, y que la gente entienda y que lo peor [?] puede malinterpretar los resultados que existen esté determinado [?], pero.
+
+
+[19:31] >> Julio Rubio: Continuamos en una ronda más con este mismo tema. Muchas gracias, Salvador.
+
+
+[19:37] Bueno, en esta segunda ronda quisiera retomar un punto que han planteado y que tiene mucho que ver con algo que nos decía Bruno Latour en su reciente conferencia en la Cátedra Alfonso Reyes.
+
+
+[19:50] Por un lado, Latour nos plantea: debemos buscar nuevas formas de organizarnos. Pero también, igual que muchos otros pensadores, igual que podemos ver en las noticias todos los días, hay un cierto nacionalismo que ha surgido para enfrentar esta crisis.
+
+
+[20:08] Y cuando vemos cómo se está organizando la ciencia, los grupos científicos, pues muy fácilmente podemos identificar grandes farmacéuticas asociadas con universidades, pero también con ciertos contextos geográficos específicos: una carrera muy evidente entre China y EE. UU., también Europa participando de una manera importante.
+
+
+[20:38] Pero no vemos, al menos, digamos, una gran colaboración global, una red global que se está organizando para resolver el problema. ¿Será el resultado de la propia dinámica tecnocientífica normal, digamos, o hay una posibilidad de que veamos un tipo de respuesta y organización diferente?
+
+
+[21:05] Sí, podemos empezar con, con... digo, Paula, por favor.
+
+
+[21:13] >> Paula Ricaurte: Bueno, sí. Un poco, yo decía que tenemos una oportunidad única para replantearnos nuestras formas de hacer ciencia y de producir tecnología.
+[21:23] Pero obviamente no hay que ser ingenuos, como los mencionados . Vivimos en un momento geopolítico en el que la carrera por la producción de conocimiento está claramente, digamos, en el enfrentamiento entre Estados Unidos y China. Europa, digamos, se suma, digamos, al mar el combo de EE. UU., pero en realidad las dos grandes potencias son EE. UU. y China.
+[21:23] Pero obviamente no hay que ser ingenuos, como los mencionados [?]. Vivimos en un momento geopolítico en el que la carrera por la producción de conocimiento está claramente, digamos, en el enfrentamiento entre Estados Unidos y China. Europa, digamos, se suma, digamos, al mar [?] el combo de EE. UU., pero en realidad las dos grandes potencias son EE. UU. y China.
+[21:54] Entonces, existe colaboración en la dinámica tecnocientífica, si no existe colaboración entre los iguales; es decir, todos los grupos de investigación que se han articulado para tratar de promover la vacuna están situados geográficamente muy puntualmente, y es una carrera, no, como tú viendo , es una carrera por identificar quién va a generar la vacuna más rápidamente.
+[21:54] Entonces, existe colaboración en la dinámica tecnocientífica, si no [?] existe colaboración entre los iguales; es decir, todos los grupos de investigación que se han articulado para tratar de promover la vacuna están situados geográficamente muy puntualmente, y es una carrera, no, como tú viendo [?], es una carrera por identificar quién va a generar la vacuna más rápidamente.
+[22:21] Entonces es una guerra de producción de conocimiento, es una guerra que nos busca resolver ; está esta carrera de producción científica y tecnológica porque implica quién se instala, se consolida como una hegemonía en el planeta.
+[22:21] Entonces es una guerra de producción de conocimiento, es una guerra que nos busca resolver [?]; está esta carrera de producción científica y tecnológica porque implica quién se instala, se consolida como una hegemonía en el planeta.
+[22:37] Entonces estas colaboraciones, por ejemplo en el caso labor , cuando se están articulando entre los distintos grupos científicos, están clarísimamente definidas.
+[22:37] Entonces estas colaboraciones, por ejemplo en el caso labor [?], cuando se están articulando entre los distintos grupos científicos, están clarísimamente definidas.
+
+
+[22:49] Y segundo, algunos datos: no hay más de 70 grupos científicos que están tratando con las vacunas, pero la Organización Mundial de la Salud actualmente solamente ha aprobado como 55 grupos que están ya en la siguiente fase para probar con humanos y demás. Y pues uno de esos es el chino; como es obvio, estas farmacéuticas chinas están colaborando con el ejército en la producción del ejército chino .
+
+
+[23:15] Entonces es, digamos, claro que en esta carrera, por supuesto, tenemos nosotros esta idea de que queremos conseguir una vacuna, pero en realidad, si lo vemos desde la geopolítica, es una carrera por quién gana el premio, no. ¿Quién gana el premio y quién se queda con estos resultados, con ese capital que se generará a partir de alcanzar este conocimiento?
+
+
+[23:46] Y eso nos coloca, digamos, con respecto a lo que tú mencionabas, a los nacionalismos, otra vez en la situación de pensar que los discursos acerca de la disminución de fronteras y de los acuerdos regionales pues son válidos hasta ciertos puntos.
+
+
+[24:05] Tienen ciertos límites. En estas situaciones de crisis nos damos cuenta de que las fronteras siguen siendo vigentes, que están ahí, y que solamente por, digamos, se activan, se reactivan estos discursos de proteger las fronteras y también, digamos, de detener nuestras decisiones autónomas como países.
+
+
+[24:25] Entonces las decisiones de las políticas de salud se ve que tienen que tener una respuesta nacional, que no hubiera servido, por ejemplo en el caso de Europa, que están tan densamente conectados, no tener una política global de salud, porque cada estado responde ante su propio sistema y su propio, digamos, su propio protocolo de desaliento .
+
+
+[24:48] Entonces, para el caso de México, yo creo que son lecciones importantes, porque qué lugar estamos nosotros ocupando en esta geopolítica mundial, en este sistema donde nos estamos situando.
+
+
+[24:58] Yo recuerdo mucho que en el 2009, y deben ustedes recordar también, cuando no había vacunas para la influenza porque no se producían en México, entonces tuvimos que esperar como un mes a que llegaran las vacunas de China .
+
+
+[25:13] En este caso todavía no hay vacunas, pero otra vez, ¿de qué manera nosotros estamos enfrentando esta batalla por la producción de conocimiento y cómo nos estamos relevando frente a, digamos, estos países que han decidido producir conocimiento científico y tecnológico y que están a la vanguardia, versus aquellos que estamos consumiendo o replicando esos conocimientos que se generan en otras partes?
+
+
+[25:37] Y por supuesto, también esto implica para el ámbito de la tecnología.
+
+
+[25:47] >> Julio Rubio: Perdón, aquí con el micrófono estoy peleando. Salvador.
+
+
+[25:52] >> Salvador: Muchas gracias, Julio. Y para seguir sobre la misma línea, pensar que hay plena colaboración en esta búsqueda, pues también eso es un tanto ingenuo, como ya se comentó.
+
+
+[26:07] Sí, sí existen, y terminaba mi último comentario con estas relaciones de poder. Y existen, en la geopolítica, estas relaciones de poder que de alguna manera determinan, precisamente, pues, estas dinámicas hegemónicas de dominación de quién tiene la posibilidad de crear una vacuna, y también de cómo se enfrenta la pandemia en cada uno de los estados nacionales en donde esto está sucediendo.
+[26:38] Al respecto, me parece que pues también nos lleva a una polarización muy peligrosa, una polarización que integra , se bebe en el discurso político, y que más que tratar de buscar un bienestar para la sociedad, pues trata de ganar empatía, más bien simpatías, con electores o con un particular grupo de personas.
+[26:38] Al respecto, me parece que pues también nos lleva a una polarización muy peligrosa, una polarización que integra [?], se bebe [?] en el discurso político, y que más que tratar de buscar un bienestar para la sociedad, pues trata de ganar empatía, más bien simpatías, con electores o con un particular grupo de personas.
+
+
+[27:06] Entonces en esto está pasando en los países, y creo que pues falta mucho trabajo precisamente para que se pueda desarrollar colaboración a nivel global, en donde esta concepción de globalización, pues, también es un tanto ingenua, porque siguen existiendo estas dinámicas de separación en la posibilidad de crear un proyecto común, particularmente con la vacuna.
+
+
+[27:37] Lo que también quisiera comentar al respecto es que me parece que esta persona llamada tensión [?] a nivel global, no solamente a nivel países, de la inversión que debe de existir en salud pública.
+
+
+[27:49] Hemos dominado en el mundo, en algunos países más que en otros, un sistema de salud más bien privatizado que deja a muchas personas fuera de poderse salvar, y que pues de alguna manera pues está inmersa en lógicas del capitalismo contemporáneo y de una lógica que se ha radicalizado y que nos lleva hasta estos problemas de salud pública.
+
+
+[28:15] Por ejemplo, en este asunto de las cámaras con las vacunas, el único que ha dicho que sería una vacuna de uso público para la gente sería China, pero no sabemos qué va a pasar, por ejemplo, con esta relación entre la Universidad de Oxford y AstraZeneca, si va a ser de alguna manera, y pues también dándose las alas a los diferentes países para que puedan darse los ciudadanos . Entonces este tipo de aspectos también juegan mucho.
+[28:45] Y sobre todo también nos damos cuenta de otra cosa: dónde están los centros de estudio que se enfocan a la solución de este problema, otra vez en países con economías desarrolladas, con un posicionamiento de progreso que en mucho ha provocado esta crisis.
+[28:45] Y sobre todo también nos damos cuenta [?] de otra cosa: dónde están los centros de estudio que se enfocan a la solución de este problema, otra vez en países con economías desarrolladas, con un posicionamiento de progreso que en mucho ha provocado esta crisis.
+
+
+[29:05] Particularmente, y con esto cierro, el hecho de que nuestra concepción del progreso está fincada particularmente en la explotación de la naturaleza, y esta explotación de la naturaleza ha hecho que se rompan ecosistemas y que se produzcan este tipo de enfermedades zoonóticas que, por estar invadiendo estos espacios, nos llegan a nosotros.
+
+
+[29:31] Y es ese momento también de pensar otra economía, otra economía que vaya encaminada precisamente a un enfoque mucho más de lo público, de lo colectivo y de lo solidario.
+
+
+[29:44] Pero en eso comentamos en un ratito más.
+
+
+[29:49] Luis.
+
+
+[29:54] >> Luis Fernández: Bueno, pues, después de las dos participaciones anteriores, pues creo que habría que simplemente redondear un poco lo dicho.
+
+
+[30:05] Entonces, también lo que me parece preocupante es que este problema, así como otros que enfrentamos, como el cambio climático, en particular, muestran que aquí no estamos en una batalla entre la humanidad contra un problema en particular.
+[30:19] O sea, está muy lindo pensar que es la humanidad lo que está enfrentando, pero no, al menos no estamos en el mismo bote, porque hay impactos diferenciados, hay capacidades diferentes, y por esa misma cuestión no nos podemos armar un frente morir , sobre un frente común. Parecería que es evidente, que es claro, que deberíamos todos, como humanidad, enfrentarlo, pero no; se imponen sobre todo visiones de país, visiones de economía.
+[30:19] O sea, está muy lindo pensar que es la humanidad lo que está enfrentando, pero no, al menos no estamos en el mismo bote, porque hay impactos diferenciados, hay capacidades diferentes, y por esa misma cuestión no nos podemos armar un frente morir [?], sobre un frente común. Parecería que es evidente, que es claro, que deberíamos todos, como humanidad, enfrentarlo, pero no; se imponen sobre todo visiones de país, visiones de economía.
+[30:48] Y eso es particularmente lo que me parece realmente problemas con lo que es sobre todo el sector privado, quién está corriendo, e incluso por encima de los países, el sector privado, quién tiene el control de las soluciones, no.
+[30:48] Y eso es particularmente lo que me parece realmente problemas [?] con lo que es sobre todo el sector privado, quién está corriendo, e incluso por encima de los países, el sector privado, quién tiene el control de las soluciones, no.
+[31:03] Hasta ahorita son 172 proyectos de vacunas que están en desarrollo hasta el día de hoy. La primera aprobada en marzo 16 , en tiempo récord, es guau, la capacidad de la humanidad para llegar rápidamente a este proceso de vacunas.
+[31:03] Hasta ahorita son 172 proyectos de vacunas que están en desarrollo hasta el día de hoy. La primera aprobada [?] en marzo 16 [?], en tiempo récord, es guau, la capacidad de la humanidad para llegar rápidamente a este proceso de vacunas.
+[31:23] Por estos 172 projects, más de 80, más de 90 de estos proyectos vienen del sector privado, ya ni siquiera en colaboración con universidades; el sector privado, grandes farmacéuticas.
+[31:23] Por estos 172 proyectos, más de 80, más de 90 [?] de estos proyectos vienen del sector privado, ya ni siquiera en colaboración con universidades; el sector privado, grandes farmacéuticas.
+[31:38] Y eso lo podemos ver, este, como las acciones a las tendillas de las atracciones de las palmas ópticas abrir también te van para arriba, para arriba, para riesgo , particularmente ahorita Moderna, Moderna, que tiene una de las vacunas que parece ser más prometedora.
+[31:38] Y eso lo podemos ver, este, como las acciones a las tendillas [?] de las atracciones [?] de las palmas ópticas [?] abrir [?] también te van para arriba, para arriba, para riesgo [?], particularmente ahorita Moderna, Moderna, que tiene una de las vacunas que parece ser más prometedora.
+[31:57] De que para lograr cumplir con todo el protocolo, no, todos .
+[31:57] De que para lograr cumplir con todo el protocolo, no, todos [?].
+
+
+[32:00] Pues eso nos deja en un país que ni siquiera está en proceso de investigación o desarrollo de una vacuna; nos deja, pues, a la esperanza de uno de los países desarrollados que están haciendo esto.
+[32:13] EE. UU. tiene, en la gran mayoría, alrededor de 50 proyectos candidatos de EE. UU., a ustedes , de China, y el resto por el sector privado. Entonces deja un país como México que no están ni siquiera desarrollados a la buena de, de los demás, no, ya la buena del capital, no.
+[32:13] EE. UU. tiene, en la gran mayoría, alrededor de 50 proyectos candidatos de EE. UU., a ustedes [?], de China, y el resto por el sector privado. Entonces deja un país como México que no están ni siquiera desarrollados a la buena de, de los demás, no, ya la buena del capital, no.
+
+
+[32:34] Entonces el principal problema aquí, para poder pensar un nuevo modo de ser, sería la cuestión del capitalismo, no. El capitalismo que se pueden poner no solo como una vía política, sino una micropolítica que ellos me parece que no los brutal de esto, que es el capital quien termine determinando quién vive y quién muere, a quién, dónde se desarrolla este, y a quién se le imparten las vacunas.
+[33:02] Suelto pensando entre 60 y 60 por ciento de la humanidad tiene que quedar inmunes para que realmente podamos regresar, digamos, a la humanidad de todos, y esto va a depender de naciones que están desarrollando, del sector privado que está desarrollando.
+[33:02] Suelto pensando [?] entre 60 y 60 por ciento de la humanidad tiene que quedar inmunes para que realmente podamos regresar, digamos, a la humanidad de todos, y esto va a depender de naciones que están desarrollando, del sector privado que está desarrollando.
+[33:18] Uno no puede haber sólo un ganador, no puede ser solamente en Moderna; tendría que haber muchos los ganadores, porque requiere una producción importante que incluso supera a una sola formación . Entonces tendría que haber muchos ganadores, tendría que haber mucha colaboración, mucha producción que hasta incluso no sólo de la vacuna, en crudeza , de los vidrios, de los brotes , para hacer las vacunas.
+[33:18] Uno no puede haber [?] sólo un ganador, no puede ser solamente en Moderna; tendría que haber muchos los ganadores, porque requiere una producción importante que incluso supera a una sola formación [?]. Entonces tendría que haber muchos ganadores, tendría que haber mucha colaboración, mucha producción que hasta incluso no sólo de la vacuna, en crudeza [?], de los vidrios, de los brotes [?], para hacer las vacunas.
+
+
+[33:42] No hay capacidad. Nos pueden hacer 300 millones de vacunas, pero no 7500 millones, para la rapidez que se requiere, y que 60 % en la humanidad que de vacuna da [?], pues es un reto brutal.
+[33:55] Y que además está determinando el sector privado y los países; entonces nos deja nosotros, pues, en la cola de muerte . Es una situación realmente preocupante.
+[33:55] Y que además está determinando el sector privado y los países; entonces nos deja nosotros, pues, en la cola de muerte [?]. Es una situación realmente preocupante.
+
+
+[34:07] >> Julio Rubio: Muchas gracias, Luis. Bien, vamos a hacer una tercera ronda un poquito más libre, digamos, de temas. Quisiera sugerir, a lo mejor, un par de temas, pero temas que ustedes tengan por ahí que quieran abordar.
+[34:21] Por ejemplo, este tema de la biopolítica, que también leí del biopoder, que nos ha también nos plantea Latour, pero otros temas muy muy importantes como la vigilancia tecnológica, que nos ha hecho notar Harary . Y otros; en realidad, este es de una enorme complejidad lo que está pasando, específicamente desde el punto de vista de cómo la ciencia y la tecnología están involucradas en esta pandemia.
+[34:21] Por ejemplo, este tema de la biopolítica, que también leí [?] del biopoder, que nos ha también nos plantea Latour, pero otros temas muy muy importantes como la vigilancia tecnológica, que nos ha hecho notar Harary [?]. Y otros; en realidad, este es de una enorme complejidad lo que está pasando, específicamente desde el punto de vista de cómo la ciencia y la tecnología están involucradas en esta pandemia.
+
+
+[34:54] Entonces, pues, empecemos esta tercera ronda contigo, Salvador, si te parece bien.
+
+
+[35:01] >> Salvador: Muchas gracias, Julio. Bueno, en esta intervención a mí me gustaría enfocarme también mucho en los sujetos, las personas que estamos viviendo cotidianamente, o en esta cotidianidad, como se le ha llamado, que estamos entre el confinamiento, entre el trabajo virtual, entre el repensar todas nuestras concepciones de vida en general.
+[35:34] Y en ese sentido me parece que aquí precisamente Latour da pistas muy interesantes, desde una visión incluso hasta posthumanista, como se cerraba en mi anterior participación, hablando de que esto es totalmente impredecible.
+[35:34] Y en ese sentido me parece que aquí precisamente Latour [?] da pistas [?] muy interesantes, desde una visión incluso hasta posthumanista, como se cerraba en mi anterior participación, hablando de que esto es totalmente impredecible.
+[36:01] Por ejemplo, de manera muy rápida, en 2003, cuando sale el SARS, varias de las interpretaciones que se hicieron de por qué pararon tan rápido el SARS es porque autores como un disenso kerman decían: bueno, es que nos comunicamos rápido y estamos en un mundo conectado, pudimos intercambiar información de manera inmediata y, de alguna manera, detener una pandemia.
+[36:01] Por ejemplo, de manera muy rápida, en 2003, cuando sale el SARS, varias de las interpretaciones que se hicieron de por qué pararon tan rápido el SARS es porque autores como un disenso kerman [?] decían: bueno, es que nos comunicamos rápido y estamos en un mundo conectado, pudimos intercambiar información de manera inmediata y, de alguna manera, detener una pandemia.
+
+
+[36:24] Ahora estamos en otras circunstancias totalmente distintas. Ahora, a pesar de que estamos conectados en términos informativos, pues esta información parece que salió en nuestra contra, también porque se empezaron a surgir una serie de informaciones no precisamente reales, como ya lo comentamos en el primero, el comentario que hicimos.
+[36:45] Entonces, en ese sentido, es muy importante pensar pacto que tiene a la vida precisamente nuestra concepción del progreso, que es lo que decía hace un momento.
+[36:45] Entonces, en ese sentido, es muy importante pensar [?] pacto [?] que tiene a la vida precisamente nuestra concepción del progreso, que es lo que decía hace un momento.
+[36:57] Y en estas misiones de los biopolíticos , contendientes de la presión de Michel Foucault, están estas nociones que de alguna manera nos hacen repensar que estamos ante otros actores, tomándola la teoría de la torre de the nature , otros actores que no son necesariamente humanos y que no obstante tienen una implicación directa a las condiciones en las que nos estamos desarrollando, esta maquinaria social del desastre.
+[36:57] Y en estas misiones [?] de los biopolíticos [?], contendientes de la presión [?] de Michel Foucault, están estas nociones que de alguna manera nos hacen repensar que estamos ante otros actores, tomándola la teoría de la torre [?] de the nature [?], otros actores que no son necesariamente humanos y que no obstante tienen una implicación directa a las condiciones en las que nos estamos desarrollando, esta maquinaria social del desastre.
+
+
+[37:30] Muchas veces provocado por el desarrollo en contra de una concepción de naturaleza, de una naturaleza que puede tomarse, que puede explotarse, que puede violarse. Y no solamente la naturaleza, sino también los cuerpos humanos.
+[37:46] Esto requiere que repensemos, y que la pandemia es una buena excusa para que también tengamos un alto .
+[37:46] Esto requiere que repensemos, y que la pandemia es una buena excusa para que también tengamos un alto [?].
+[37:55] Decía, por ejemplo, Latour en su participación con nosotros aquí, en el texto, de que nadie pensaba que el sistema, como tal, sistema económico, político, podía tener un alto; pues menos mal, está no lo estamos teniendo .
+[37:55] Decía, por ejemplo, Latour [?] en su participación con nosotros aquí, en el texto, de que nadie pensaba que el sistema, como tal, sistema económico, político, podía tener un alto; pues menos mal, está no lo estamos teniendo [?].
+[38:09] Y yo creo que hay que pensar precisamente las condiciones de la gente, de este tasa en este hombre inyectado en la realidad de lo que somos: el sujeto que somos, que estamos presente viviendo estas cotidianas cocineras , y que estamos construyendo también solidaridad, solidaridades a través de ellas , comunitarias, a través de, este, de economías locales, a través de apoyos en mapas digitales, etcétera, etcétera.
+[38:09] Y yo creo que hay que pensar precisamente las condiciones de la gente, de este tasa [?] en este hombre inyectado [?] en la realidad de lo que somos: el sujeto que somos, que estamos presente viviendo estas cotidianas cocineras [?], y que estamos construyendo también solidaridad, solidaridades a través de ellas [?], comunitarias, a través de, este, de economías locales, a través de apoyos en mapas digitales, etcétera, etcétera.
+[38:42] Sí, estamos teniendo también un boom de otras posibilidades, desde donde , desde la micropolítica, desde lo rizomático, desde... no, desde el orgullo , no, desde lo general, sino desde la micropolítica de la cotidianidad de cada uno de nosotros.
+[38:42] Sí, estamos teniendo también un boom de otras posibilidades, desde donde [?], desde la micropolítica, desde lo rizomático, desde... no, desde el orgullo [?], no, desde lo general, sino desde la micropolítica de la cotidianidad de cada uno de nosotros.
+
+
+[38:58] Entonces, este, yo creo que eso también es muy importante revisarlo, y creo que eso está de alguna manera generando nuevas prácticas sociales que me parece, y espero, se sigan desarrollando.
+
+
+[39:12] >> Julio Rubio: Muchas gracias. Luis.
+
+
+[39:38] ¿No? Nos la pandemia, ahora sí que, pues, lo que está saliendo ahorita, pero la normalidad ya era una crisis. Ya estamos enfrentando un mundo con una crisis ambiental terrible de topos en o , crisis de agua, deforestación, colapso de ecosistemas, extinción masiva de especies, más cambio climático. Entonces una situación realmente brutal que, lamentablemente, no está en el ojo de la atención pública; lleva ahorita, pues, con la pandemia, mucho menos.
+
+
+[39:38] ¿No? Nos [?] la pandemia, ahora sí que, pues, lo que está saliendo ahorita, pero la normalidad ya era una crisis. Ya estamos enfrentando un mundo con una crisis ambiental terrible de topos en o [?], crisis de agua, deforestación, colapso de ecosistemas, extinción masiva de especies, más cambio climático. Entonces una situación realmente brutal que, lamentablemente, no está en el ojo de la atención pública; lleva ahorita, pues, con la pandemia, mucho menos.
+[40:07] Entonces, dentro de este espacio donde nos encontramos, y que demuestran las otras crisis más la pandemia, es una situación de alta vulnerabilidad , aunque que tiene el mundo, que hay un exceso de confianza en la capacidad del ser humano para actuar, para comprender, para solventar las problemáticas, y la propia nivel de complejidad de estas crisis pone en duda la posibilidad misma del ser humano, de la ciencia, de la tecnología, de actuar frente a esta situación.
+[40:07] Entonces, dentro de este espacio donde nos encontramos, y que demuestran las otras crisis más la pandemia, es una situación de alta vulnerabilidad [?], aunque [?] que tiene el mundo, que hay un exceso de confianza en la capacidad del ser humano para actuar, para comprender, para solventar las problemáticas, y la propia [?] nivel de complejidad de estas crisis pone en duda la posibilidad misma del ser humano, de la ciencia, de la tecnología, de actuar frente a esta situación.
+[40:42] Y eso lo vemos en la pandemia, con que incluso las naciones más desarrolladas, con la mejor infraestructura, con la ciencia, etcétera, de todas maneras están de rodillas , se tratan de esta situación .
+[40:42] Y eso lo vemos en la pandemia, con que incluso las naciones más desarrolladas, con la mejor infraestructura, con la ciencia, etcétera, de todas maneras están de rodillas [?], se tratan de esta situación [?].
+
+
+[40:55] Entonces, cuando pensamos en términos de otras crisis, como el cambio climático, con el aumento de más de dos grados de la temperatura global, y que existe por ahí como una sensación generalizada en la gente de «así como de ella no , resolveremos, la tecnología lo resolverá», en un sentido como de «Dios proveerá», ¿no?, «ya inventaremos algo, ya habrá una tecnología que nos resuelva este asunto».
+
+
+[41:20] Y lo vemos ahorita, que tal vez esa confianza es un tanto ingenua, incluso en el sentido de la vacuna: nada garantiza que se pueda lograr crear esta vacuna. La propia OMS ha dicho que probablemente este virus será endémico.
+[41:40] Entonces nada garantiza que una vacuna lo va a resolver, porque esto seguro en una especie de tecno fix .
+[41:40] Entonces nada garantiza que una vacuna lo va a resolver, porque esto seguro en [?] una especie de tecno fix [?].
+
+
+[41:44] Y con el cambio climático, de más, vemos de todas maneras esta fuerte confianza en que la tecnología nos va a resolver el problema, que inventaremos algo que captura todo el carbono, le dejamos el puesto a la geoingeniería, a que algo más nos resolverá, a una confianza demasiado ingenua y demasiado puesta en que el ser humano está en control de las situaciones.
+
+
+[42:08] Y la gran situación es que, entonces, estas crisis lo que demuestran es que este control es más bien ilusorio. No hay tal control. Hay una forma de enfrentar, no solo quita [?] la agencia de la ciencia, de la tecnología, pero ese control, ese es el sentido de que podemos tener absoluto dominio, es más bien ilusorio, y tenemos que abrir los ojos a esta situación, tanto con una pandemia y sobre todo las otras crisis.
+
+
+[42:34] Porque hablas de que por afán de muy buena ahí está fuerte , nos tiene realmente una situación terrible, pero las que vienen están peores, están mucho peores. Y nada garantiza que tengamos la capacidad tecnológica para resolver; uno porque latinos ya no es suficiente para resolver las crisis que enfrentamos. Podemos probar un pedacito, pero ni siquiera ese pedacito es suficiente. No hay tecnologías probadas que puedan garantizar que podemos resolver la cuestión del cambio climático.
+[43:04] Todos sobre todo lo que se ha dejado en la mesa como última participación : que hemos puesto demasiado énfasis en la tecnología como que nos va a resolver los problemas de este siglo, y mientras pueden hacer una parte, que este control, este dominio que puede proporcionar la tecnología es más bien ilusorio, y esta pandemia y la crisis que ha creado déjalo dejar este muy marcado, y peor con lo que viene adelante.
+[43:04] Todos sobre todo lo que se ha dejado en la mesa como última participación [?]: que hemos puesto demasiado énfasis en la tecnología como que nos va a resolver los problemas de este siglo, y mientras pueden hacer una parte, que este control, este dominio que puede proporcionar la tecnología es más bien ilusorio, y esta pandemia y la crisis que ha creado déjalo dejar [?] este muy marcado, y peor con lo que viene adelante.
+[43:34] >> Julio Rubio: Y nada más comentar que quizás sí tengamos todavía, podamos cerrar con alguna pregunta adicional. Antes de darle la palabra para Paula, o bien para Paula , y luego les comento que nos llega una pregunta que nos piden ahondar sobre el concepto de mutación ecológica. Ok, pero para empezar le damos la palabra a Paula, por sobre .
+[43:34] >> Julio Rubio: Y nada más comentar que quizás sí tengamos todavía, podamos cerrar con alguna pregunta adicional. Antes de darle la palabra para Paula, o bien para Paula [?], y luego les comento que nos llega una pregunta que nos piden ahondar sobre el concepto de mutación ecológica. Ok, pero para empezar le damos la palabra a Paula, por sobre [?].
+
+
+[44:04] >> Paula Ricaurte: Muchísimas gracias, Julio. Un poco para continuar abundando en el argumento presentado por mis colegas, yo diría que la crisis que estamos viviendo, obviamente, es pues el resultado no solamente de un modelo económico.
+[44:21] Yo más bien estaría, digamos, a favor de lo que plantea Arturo Escobar, y lo que menciona es que estamos viviendo la crisis, estamos en testigos de la crisis de un tipo específico del mundo y una serie de prácticas que contribuyeron a su construcción. Es decir, estamos viviendo una crisis ontológica, y esta crisis ontológica es el resultado de un mundo que ha estado dominado por el capitalismo, el racionalismo, el dualismo y el patriarcado.
+[44:21] Yo más bien estaría, digamos, a favor de lo que plantea Arturo Escobar, y lo que menciona es que estamos viviendo la crisis, estamos en testigos [?] de la crisis de un tipo específico del mundo y una serie de prácticas que contribuyeron a su construcción. Es decir, estamos viviendo una crisis ontológica, y esta crisis ontológica es el resultado de un mundo que ha estado dominado por el capitalismo, el racionalismo, el dualismo y el patriarcado.
+
+
+[44:57] Porque eso es algo que no se menciona: la ciencia y la tecnología son también una reproducción de las desigualdades, de la violencia de género, el colonialismo también, que lo vemos cotidianamente, el racismo. Es decir, esta crisis ontológica es el resultado del modelo de mundo occidental racional que, bajo la ilusión de la modernidad, se nos ha impuesto al resto de la humanidad, eliminando la posibilidad de existencia de otras formas de existencia que no sean o que no se encuentren bajo este modelo.
+
+
+[45:31] Es decir, de alguna forma, en la articulación que se ha generado, en la dominación de un sistema epistemológico, de una forma de ser en el mundo que es racionalista y que, como se desconoce otras formas de existencia que son relacionales, y esto es otro de los planteamientos de Arturo Escobar, nos habla de la antología relacional.
+[45:56] Si no entendemos que estamos conectados con el entorno, que es con lo que nos rodea, y con los otros seres humanos, y que con cualquiera de nuestras acciones tenemos repercusiones, afectamos a esos otros y a ese entorno, entonces obviamente no vamos a poder servir stratvs , porque repito es una crisis punto lógico .
+[45:56] Si no entendemos que estamos conectados con el entorno, que es con lo que nos rodea, y con los otros seres humanos, y que con cualquiera de nuestras acciones tenemos repercusiones, afectamos a esos otros y a ese entorno, entonces obviamente no vamos a poder servir stratvs [?], porque repito es una crisis punto lógico [?].
+[46:17] Entonces este hecho de haber eliminado otras maneras de ser, hacer, sentir, pensar en el mundo son, en realidad, el fundamento de lo que .
+[46:17] Entonces este hecho de haber eliminado otras maneras de ser, hacer, sentir, pensar en el mundo son, en realidad, el fundamento de lo que [?].
+
+
+[46:30] Entonces yo creo que tenemos muchísimos desafíos; los desafíos de la ciencia y la tecnología son justamente responder a esta crisis ontológica. Como, digamos, como hemos visto que en esta pandemia se han hecho más visibles todas las desigualdades sociales, el hecho de que existen privilegiados y excluidos.
+
+
+[46:51] Estamos, digamos, que hay estas repercusiones, estos impactos diferenciados en cuerpos, especialmente, pues, de personas vulnerables, de mujeres, de personas racializadas. Esto que estamos viendo en esta crisis es lo que nos muestra la crisis, y entonces estamos viendo que las respuestas de la ciencia y la tecnología refuerzan esa dominación, refuerzan estas desigualdades.
+
+
+[47:11] Entonces yo creo que justamente todas las teorías que explican el tipo de sociedad en la que estamos viviendo no están asociadas con estos modelos sociotécnicos dominantes, tienen que ver con responder ante estos controles que se manifiestan a través del desarrollo científico y tecnológico, no, del capitalismo de la vigilancia, el colonialismo de los datos, es decir, formas de existencia que están articuladas con este, como este, el sistema de producción de conocimiento.
+
+
+[47:42] Entonces yo creo que eso también explica, por supuesto, es solución mismo tecnológico que mencionaba Luis, no. Antes pensamos que para resolver estos problemas sociales vamos a tener una respuesta tecnológica, y en realidad la tecnología no responde, digamos, no resuelve los problemas sociales, porque otra vez son problemas que tienen que ver con un modelo del mundo.
+[48:03] Yo creo que en México, en particular, tenemos que impulsar justamente una visión sobre el desarrollo científico-tecnológico que apele a cuestionar estos modelos y que plantee sus propios modelos de producción de conocimiento que resistan a estas imposiciones ontológicas y epistemológicas, y que respondan, por supuesto, por junto a las necesidades concretas, situadas, de nuestras poblaciones, y que atiendan a esas necesidades de las poblaciones más vulnerables.
+[48:03] Yo creo que en México, en particular, tenemos que impulsar justamente una visión sobre el desarrollo científico-tecnológico que apele a cuestionar estos modelos y que plantee sus propios modelos de producción de conocimiento que resistan a estas imposiciones ontológicas y epistemológicas, y que respondan, por supuesto, por junto [?] a las necesidades concretas, situadas, de nuestras poblaciones, y que atiendan a esas necesidades de las poblaciones más vulnerables.
+[48:35] Entonces, mientras tanto, digamos, no podemos pensar que saldremos de una crisis, porque es una crisis que no es sanitaria sino, en realidad, civilizada .
+[48:35] Entonces, mientras tanto, digamos, no podemos pensar que saldremos de una crisis, porque es una crisis que no es sanitaria sino, en realidad, civilizada [?].
+
+
+[48:50] Y...
+
+
+[48:54] >> Participante 1: El micrófono, Julio.
+
+
+[49:05] >> Julio Rubio: La verdad que me escuchan aquí con los ruidos del ambiente, de pronto aparecen ahí ruidos extraños. Bueno, les decía, ya vamos a ir cerrando, y nos llega esta pregunta sobre el concepto de mutación ecológica, y que yo creo que podemos también extender hacia, en general, la aproximación a la crisis global del cambio climático y de la perspectiva en la que Latour insiste y nos invita, incluso con su encuesta , de cómo podemos ir modificando patrones de conducta.
+
+
+[49:45] Y aquí, Luis, me gustaría, si podías, pudiéramos iniciar contigo, que además, pues, has tenido oportunidad de participar en las cumbres mundiales sobre cambio climático, cómo ves esta cuestión.
+[50:03] >> Luis Fernández: Luego, la posibilidad de modificar patrones, pues ahí están . Dijo que , para hacer el puente con lo último que están mencionando, para oler , pues sí, en efecto, esto no es una crisis sanitaria, es una crisis civilizatoria.
+[50:03] >> Luis Fernández: Luego, la posibilidad de modificar patrones, pues ahí están [?]. Dijo que [?], para hacer el puente con lo último que están mencionando, para oler [?], pues sí, en efecto, esto no es una crisis sanitaria, es una crisis civilizatoria.
+
+
+[50:15] Y si lo unimos a una cita del presidente del IPCC, del panel de cambio climático de Naciones Unidas, cuando presentó el último reporte, dice: para evitar que la temperatura aumente dos grados va a requerir de cambios rápidos, profundos, sin precedentes en todo un nivel de la sociedad, no.
+
+
+[50:37] Entonces eso es lo realmente brutal: que esto no es una cuestión científica, no es una cuestión meramente tecnológica que hay una partecita que puedan resolver; pues esto requiere realmente que transformemos, no.
+[50:51] Y si es una crisis civilizatoria, significa que algo estamos haciendo muy mal, que cuando tenemos el planeta en general en un estado de crisis por todos lados, por donde volteamos está algo realmente mal: con respecto al agua, al cambio climático, deforestación, colapso de extensión , crisis sanitaria, y todo que es tan profunda, interconectado, que es sumamente complejo.
+[50:51] Y si es una crisis civilizatoria, significa que algo estamos haciendo muy mal, que cuando tenemos el planeta en general en un estado de crisis por todos lados, por donde volteamos está algo realmente mal: con respecto al agua, al cambio climático, deforestación, colapso de extensión [?], crisis sanitaria, y todo que es tan profunda, interconectado, que es sumamente complejo.
+[51:12] Pero creemos que esto será cuestión de hacer un pequeño cambio, que es cuestión de que deje de usar portes , que use en una bolsa de tela, que haga, y entonces esto requiere una transformación cultural, una transformación casi espiritual, que no le podemos dejar solamente a la ciencia, que no podemos dejar solamente a los gobiernos que hagan.
+[51:12] Pero creemos que esto será cuestión de hacer un pequeño cambio, que es cuestión de que deje de usar portes [?], que use en una bolsa de tela, que haga, y entonces esto requiere una transformación cultural, una transformación casi espiritual, que no le podemos dejar solamente a la ciencia, que no podemos dejar solamente a los gobiernos que hagan.
+
+
+[51:36] Sino que requiere que las personas tengan agencia, que tengan que comprendan que estas uniones profundas en su, en su relación con la naturaleza, en su relación con el mundo, que, que, y que tienen un papel a desempeñar.
+
+
+[51:50] Y vemos dinámicas de mercado donde los habitan ; mientras que algunos filósofos decían, bueno, hasta aquí, es la oportunidad para que el capitalismo muera, vemos que el capital o sada , ya no vemos desde mascarillas estilizadas que ahora te venden, vemos productos hechos, nuevas empresas, nuevos modos del capitalismo absorbiendo el proceso, simplemente la normalidad otra vez imponiéndose, que es insostenible.
+[52:22] Nosotros requiere una transformación de los individuos que comprendan que no es solamente control lógica , como se mencionó antes, que no es solamente de un acto, sino en una transformación cultural, espiritual, de estar en el mundo, para poder solventar esto; que no va a ser un acto, no es solamente comprar un producto, no solamente esperar una tecnología.
+[52:22] Nosotros requiere una transformación de los individuos que comprendan que no es solamente control lógica [?], como se mencionó antes, que no es solamente de un acto, sino en una transformación cultural, espiritual, de estar en el mundo, para poder solventar esto; que no va a ser un acto, no es solamente comprar un producto, no solamente esperar una tecnología.
+[52:44] Porque ese es el grave error que, con el cambio climático, con la crisis ambiental, con la pandemia, creemos que se puede surge con una vacuna, con una mascarilla, con esto vamos a poder transformar el problema, y no nuestro , realmente requiere una transformación cultural, espiritual, que no podemos esperar que la ciencia, de los gobiernos, que este sean quienes marquen lo . Pero entonces, pues, eso lo deja en la sociedad, no, en la sociedad que exija, que nueva, que transforme este tipo de situaciones.
+[52:44] Porque ese es el grave error que, con el cambio climático, con la crisis ambiental, con la pandemia, creemos que se puede surge [?] con una vacuna, con una mascarilla, con esto vamos a poder transformar el problema, y no nuestro [?], realmente requiere una transformación cultural, espiritual, que no podemos esperar que la ciencia, de los gobiernos, que este sean quienes marquen lo [?]. Pero entonces, pues, eso lo deja en la sociedad, no, en la sociedad que exija, que nueva, que transforme este tipo de situaciones.
+
+
+[53:18] Podría ser mucho más próximo, no hay tiempo.
+
+
+[53:26] >> Participante 1: No te escuchas, Julio.
+
+
+[53:30] >> Julio Rubio: Gracias. Antes de continuar ya con cierres breves, les duele leer un comentario de Giselle Aguilar, quien dice que coincide en que repensar al sujeto en este contexto nos enfrenta a un reto de crisis ontológica para replantear el sentido del ser; vaya, a desafío en todas dimensiones y sus implicaciones epistémicas. Muy bien.
+
+
+[53:54] Pues, para pasar con los cierres, Salvador, si pudiéramos tener un breve cierre de tu parte.
+[54:02] >> Salvador: Y bueno, esta charla nos da como para un seminario entero, pero bueno, hay que cerrar, y básicamente yo quisiera comentar, nada más, algunos aspectos que creemos que hemos reflexionado y que tiene que ver precisamente con el sistema, sistemas económicos, políticos, sociales, cómo se van desarrollando, y que también los realizan muy bien pero no la turba , porque lo cuyas ideas nos hemos conjuntado hoy.
+[54:02] >> Salvador: Y bueno, esta charla nos da como para un seminario entero, pero bueno, hay que cerrar, y básicamente yo quisiera comentar, nada más, algunos aspectos que creemos que hemos reflexionado y que tiene que ver precisamente con el sistema, sistemas económicos, políticos, sociales, cómo se van desarrollando, y que también los realizan [?] muy bien pero no la turba [?], porque lo cuyas ideas [?] nos hemos conjuntado hoy.
+
+
+[54:25] Y al final de cuentas, sí, hay que pensar, por ejemplo, lo que decía hace un momento Luis, otro capitalismo posible, sí, porque bueno, el capitalismo también inicia en un momento histórico bastante complicado, inicia con la conquista de América, este, y lo dice muy bien Marx en su momento, en El capital: el capital viene chorreando lodo, en ríos de sangre y lodo, sí, para dar esta visión metafórica de lo que es.
+
+
+[54:56] O sea, a través de la explotación del ser, del sujeto, a partir de la explotación de la naturaleza, todos estos ámbitos, y de algo que también dijo Paula que me parece de mayor importancia, esto con una visión también, este, patriarcal, sí, porque es una dominación de los cuerpos desde la colonización, no solamente en términos, digamos, de pueblos y pse de sociedades, sino también de los cuerpos de las personas.
+
+
+[55:23] Y que ahora se están desarrollando en diferentes formas de agencia, que es lo que me llena de esperanza: sí, estas diferentes formas de agencia que están desarrollando las crisis que hemos tenido actualmente a la luz de la pandemia, con diferentes movilizaciones y acciones colectivas, no son este casal , son espontáneas, pero tienen un gran bagaje social y político que están desarrollando ahora, porque son los vulnerables los que están sufriendo más esta pandemia.
+[55:50] Son el subalterno, hacer que éstas sufren otra pandemia, y si alguien mueve al mundo, y si alguien cambia el mundo, no es otro más que el subalterno. Entonces yo creo que en este sentido nos da esto para seguirlo, seguirlo practicando.
+[55:50] Son el subalterno, hacer que éstas [?] sufren otra pandemia, y si alguien mueve al mundo, y si alguien cambia el mundo, no es otro más que el subalterno. Entonces yo creo que en este sentido nos da esto para seguirlo, seguirlo practicando.
+
+
+[56:06] Y también, finalmente, con el asunto de la tecnología, este, sí, no, hay que usar la tecnología, pero tampoco de convertirnos, lo que decía de Freud, en un dios con prótesis, sí. Éste, saber que también la tecnología no es neutral y que esta tecnología, como puede beneficiar, también puede crear grandes sufrimientos; es mejor pensar en crear estas formas de solidaridad, a través de lo que Walter Benjamin decía, a través de esta débil fuerza mesiánica del subalterno. Y pues muchas gracias, gracias.
+
+
+[56:41] >> Julio Rubio: Treinta segundos, por lan .
+
+
+[56:44] [Risas]
+
+
+[56:49] >> Paula Ricaurte: Muy rápidamente, yo creo que hablar de capitalismo verde es un oxímoron. Yo no creo en eso.
+
+
+[56:57] Pienso que justamente el triunfo, digamos, de estas epistemologías patriarcales, capitalistas, colonialistas, racionalistas es habernos robado la capacidad de imaginarnos de otra manera, de existir de otra manera que no sea el capitalismo.
+[57:12] Y tampoco estoy diciendo que es el socialismo ni nada por el estilo, sino pensar otros modelos de mundo que no estén basados en el exterminio, y el capitalismo está basado en este vídeo .
+[57:12] Y tampoco estoy diciendo que es el socialismo ni nada por el estilo, sino pensar otros modelos de mundo que no estén basados en el exterminio, y el capitalismo está basado en este vídeo [?].
+
+
+[57:24] No hay otra manera de entender el carácter , es decir, no hay manera, de igual que no se pueden arreglar las grandes corporaciones tecnológicas, no hay manera de arreglar capital .
+
+
+[57:34] Entonces pienso que el gran desafío, y por eso Escobar también habla de él: cuál es la colonialidad más allá del colonialismo, que es la colonialidad, y es la captura de la imaginación. Si no somos capaces de imaginarnos de maneras distintas, no tenemos salida.
+
+
+[57:51] Y creo que los sujetos, por supuesto, tienen toda la capacidad de transformarse y de transformar su entorno, y que hemos mostrado que podemos hacerlo. No siempre hemos mostrado que podemos hacer las cosas muy bien.
+
+
+[58:09] >> Julio Rubio: Y para cerrar, le voy a pedir a Ana Laura, directora de la Cátedra Alfonso Reyes, que cierre la sesión y nos haga una invitación.
+
+
+[58:21] >> Ana Laura: Muchísimas gracias, Julio. Pues muchísimas gracias a Salvador, a Luis y a Paula por esta invitación, realmente, a reinventarnos ante lo que ustedes han definido como una crisis de la civilización. Este, realmente el reto es enorme; nos toca como generación, y les toca a los alumnos también, con los que convivimos todos los días.
+
+
+[58:43] Muchísimas gracias a los tres profesores investigadores de la Escuela de Humanidades y Educación del Tecnológico de Monterrey. Gracias a Julio por esta mesa.
+
+
+CONTINÚA EN [00:20]
